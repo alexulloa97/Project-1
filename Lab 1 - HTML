@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title >
+            Alexander Ulloa Personal Portfolio
+        </title>
+    </head>
+    <body>
+        <h1 style="background-color:rgb(205, 211, 182); color:rgb(111, 105, 212)"> Alexander. F Ulloa Bastidas</h1>
+        <h3>
+            New Jersey Institute of Technology<br>Undergraduated Architecture Student
+            <br>Class of 2027 
+            <br>ID: 31666317 
+            <br>Architecture Program
+        </h3>
+        <p style="color:grey" style="background-color:rgb(50, 161, 205)">
+            Alexander is an undergraduate student at the New Jersey Institute of Technology. 
+            His major is a five-year Bachelor of Architecture degree and he will be graduating on 2027. 
+            He was born in Quito, Ecuador. A tennis enthusiast, he came to the US at the age of 20 and since then he has been going to  shcool so he can be an architect that can make a difference in the world.
+        </p>
+        <a href= https://design.njit.edu>NJIT_HCAD</a>
+        <img src="/Users/alexulloa97/Downloads/IMG_8738.jpg" windth="300" height="300">
+    </body>
+</html>
